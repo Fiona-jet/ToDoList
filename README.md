@@ -33,31 +33,31 @@
     <img width="800" alt="Screenshot 2024-12-31 at 1 21 29ΓÇ»AM" src="https://github.com/user-attachments/assets/90419650-03eb-4dd8-b091-95b335890ba5" />
     
  3. Registration Screen (Light and Dark Modes)
-<img width="800" alt="Screenshot 2024-12-29 at 1 48 57ΓÇ»PM" src="https://github.com/user-attachments/assets/b186e224-6d35-47b1-ab8e-d16e1246a62f" />
-<img width="800" alt="Screenshot 2024-12-29 at 1 52 12ΓÇ»PM" src="https://github.com/user-attachments/assets/96edc1e4-a11f-4fa4-87c7-0ca3c07d0de5" />
-<img width="800" alt="Screenshot 2024-12-29 at 1 56 39ΓÇ»PM" src="https://github.com/user-attachments/assets/5d841feb-b4af-454b-b27f-1366631712d2" />
-<img width="800" alt="Screenshot 2024-12-29 at 2 15 02ΓÇ»PM" src="https://github.com/user-attachments/assets/ada6aaa6-591f-41f6-a47a-85db6afd83d4" />
+<img width="700" alt="Screenshot 2024-12-29 at 1 48 57ΓÇ»PM" src="https://github.com/user-attachments/assets/b186e224-6d35-47b1-ab8e-d16e1246a62f" />
+<img width="700" alt="Screenshot 2024-12-29 at 1 52 12ΓÇ»PM" src="https://github.com/user-attachments/assets/96edc1e4-a11f-4fa4-87c7-0ca3c07d0de5" />
+<img width="700" alt="Screenshot 2024-12-29 at 1 56 39ΓÇ»PM" src="https://github.com/user-attachments/assets/5d841feb-b4af-454b-b27f-1366631712d2" />
+<img width="700" alt="Screenshot 2024-12-29 at 2 15 02ΓÇ»PM" src="https://github.com/user-attachments/assets/ada6aaa6-591f-41f6-a47a-85db6afd83d4" />
 
 5. Firebase Authentication and Firestore Integration
-<img width="1673" alt="Screenshot 2024-12-29 at 4 41 38ΓÇ»PM" src="https://github.com/user-attachments/assets/1ca3aa24-7d60-461b-9374-d66b02c9604b" />
-<img width="1366" alt="Screenshot 2024-12-29 at 4 42 34ΓÇ»PM" src="https://github.com/user-attachments/assets/ae1f8423-59ea-45d5-9a77-1a31c95ed77c" />
+<img width="1000" alt="Screenshot 2024-12-29 at 4 41 38ΓÇ»PM" src="https://github.com/user-attachments/assets/1ca3aa24-7d60-461b-9374-d66b02c9604b" />
+<img width="700" alt="Screenshot 2024-12-29 at 4 42 34ΓÇ»PM" src="https://github.com/user-attachments/assets/ae1f8423-59ea-45d5-9a77-1a31c95ed77c" />
 
  4. Login Screen with Error Display
 ![Screenshot 2025-01-02 091037](https://github.com/user-attachments/assets/4a11591b-f4e7-4a64-a109-e206cab83840)
 ![Screenshot 2025-01-02 091056](https://github.com/user-attachments/assets/cd35a944-b345-4bf1-8cdf-2227fd9ce6a7)
 
  6. Navigation and Welcome Screen    
-<img width="450" alt="Screenshot 2024-12-29 at 4 52 57ΓÇ»PM" src="https://github.com/user-attachments/assets/e8827dfc-ed99-4433-be7e-76d71bdf407d" />
+<img width="250" alt="Screenshot 2024-12-29 at 4 52 57ΓÇ»PM" src="https://github.com/user-attachments/assets/e8827dfc-ed99-4433-be7e-76d71bdf407d" />
 
  7.   Daily Tasks & ViewTask Creation with Validation
- <img width="483" alt="Screenshot 2024-12-31 at 12 19 48ΓÇ»AM" src="https://github.com/user-attachments/assets/5c799247-ecaa-42f5-9fa7-cc6f0fd8f252" />
+ <img width="283" alt="Screenshot 2024-12-31 at 12 19 48ΓÇ»AM" src="https://github.com/user-attachments/assets/5c799247-ecaa-42f5-9fa7-cc6f0fd8f252" />
 
 8.Sample Data and JSON Handling
 ![Screenshot 2025-01-01 111457](https://github.com/user-attachments/assets/406edbf6-3403-4b42-a9fc-d2be7871a8f5)
-<img width="1680" alt="Screenshot 2024-12-31 at 11 52 06ΓÇ»PM" src="https://github.com/user-attachments/assets/302c46fd-2ea7-400e-8b35-03f2962de29d" />
+<img width="1000" alt="Screenshot 2024-12-31 at 11 52 06ΓÇ»PM" src="https://github.com/user-attachments/assets/302c46fd-2ea7-400e-8b35-03f2962de29d" />
 
 9. Launch Screen--
-<img width="1672" alt="Screenshot 2024-12-31 at 1 32 11ΓÇ»AM" src="https://github.com/user-attachments/assets/60cc0752-619a-4fdf-8e5c-f626fe9f6dae" />
+<img width="1000" alt="Screenshot 2024-12-31 at 1 32 11ΓÇ»AM" src="https://github.com/user-attachments/assets/60cc0752-619a-4fdf-8e5c-f626fe9f6dae" />
 
  
 ## Technologies Used- **Language:** Swift (SwiftUI framework)- **Development Environment:** Xcode- **Database:** Firebase Firestore- **Authentication:** Firebase Authentication
