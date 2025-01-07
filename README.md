@@ -33,10 +33,10 @@
     <img width="800" alt="Screenshot 2024-12-31 at 1 21 29ΓÇ»AM" src="https://github.com/user-attachments/assets/90419650-03eb-4dd8-b091-95b335890ba5" />
     
  3. Registration Screen (Light and Dark Modes)
-<img width="1359" alt="Screenshot 2024-12-29 at 1 48 57ΓÇ»PM" src="https://github.com/user-attachments/assets/b186e224-6d35-47b1-ab8e-d16e1246a62f" />
-<img width="1336" alt="Screenshot 2024-12-29 at 1 52 12ΓÇ»PM" src="https://github.com/user-attachments/assets/96edc1e4-a11f-4fa4-87c7-0ca3c07d0de5" />
-<img width="1399" alt="Screenshot 2024-12-29 at 1 56 39ΓÇ»PM" src="https://github.com/user-attachments/assets/5d841feb-b4af-454b-b27f-1366631712d2" />
-<img width="1364" alt="Screenshot 2024-12-29 at 2 15 02ΓÇ»PM" src="https://github.com/user-attachments/assets/ada6aaa6-591f-41f6-a47a-85db6afd83d4" />
+<img width="800" alt="Screenshot 2024-12-29 at 1 48 57ΓÇ»PM" src="https://github.com/user-attachments/assets/b186e224-6d35-47b1-ab8e-d16e1246a62f" />
+<img width="800" alt="Screenshot 2024-12-29 at 1 52 12ΓÇ»PM" src="https://github.com/user-attachments/assets/96edc1e4-a11f-4fa4-87c7-0ca3c07d0de5" />
+<img width="800" alt="Screenshot 2024-12-29 at 1 56 39ΓÇ»PM" src="https://github.com/user-attachments/assets/5d841feb-b4af-454b-b27f-1366631712d2" />
+<img width="800" alt="Screenshot 2024-12-29 at 2 15 02ΓÇ»PM" src="https://github.com/user-attachments/assets/ada6aaa6-591f-41f6-a47a-85db6afd83d4" />
 
 5. Firebase Authentication and Firestore Integration
 <img width="1673" alt="Screenshot 2024-12-29 at 4 41 38ΓÇ»PM" src="https://github.com/user-attachments/assets/1ca3aa24-7d60-461b-9374-d66b02c9604b" />
