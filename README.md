@@ -29,8 +29,8 @@
  Below are some highlights of the features I implemented:
  
  1. App Icon Design
-<img width="369" alt="Screenshot 2024-12-31 at 1 20 03ΓÇ»AM" src="https://github.com/user-attachments/assets/94dc27d7-fa89-4598-bff0-6cb7d66320d4" />
-    <img width="1367" alt="Screenshot 2024-12-31 at 1 21 29ΓÇ»AM" src="https://github.com/user-attachments/assets/90419650-03eb-4dd8-b091-95b335890ba5" />
+<img width="200" alt="Screenshot 2024-12-31 at 1 20 03ΓÇ»AM" src="https://github.com/user-attachments/assets/94dc27d7-fa89-4598-bff0-6cb7d66320d4" />
+    <img width="1000" alt="Screenshot 2024-12-31 at 1 21 29ΓÇ»AM" src="https://github.com/user-attachments/assets/90419650-03eb-4dd8-b091-95b335890ba5" />
     
  3. Registration Screen (Light and Dark Modes)
 <img width="1359" alt="Screenshot 2024-12-29 at 1 48 57ΓÇ»PM" src="https://github.com/user-attachments/assets/b186e224-6d35-47b1-ab8e-d16e1246a62f" />
@@ -54,10 +54,10 @@
 
 8.Sample Data and JSON Handling
 ![Screenshot 2025-01-01 111457](https://github.com/user-attachments/assets/406edbf6-3403-4b42-a9fc-d2be7871a8f5)
+<img width="1680" alt="Screenshot 2024-12-31 at 11 52 06ΓÇ»PM" src="https://github.com/user-attachments/assets/302c46fd-2ea7-400e-8b35-03f2962de29d" />
 
 9. Launch Screen--
 <img width="1672" alt="Screenshot 2024-12-31 at 1 32 11ΓÇ»AM" src="https://github.com/user-attachments/assets/60cc0752-619a-4fdf-8e5c-f626fe9f6dae" />
-<img width="1680" alt="Screenshot 2024-12-31 at 11 52 06ΓÇ»PM" src="https://github.com/user-attachments/assets/302c46fd-2ea7-400e-8b35-03f2962de29d" />
 
  
 ## Technologies Used- **Language:** Swift (SwiftUI framework)- **Development Environment:** Xcode- **Database:** Firebase Firestore- **Authentication:** Firebase Authentication
