@@ -69,9 +69,9 @@ Created a launch screen with the app title "Tick Task," ensuring a professional 
 <img width="1000" alt="Screenshot 2024-12-31 at 1 32 11ΓÇ»AM" src="https://github.com/user-attachments/assets/60cc0752-619a-4fdf-8e5c-f626fe9f6dae" />
 
  
-## Technologies Used-
-**Language:** Swift (SwiftUI framework)-
-**Development Environment:** Xcode-
+### Technologies Used-
+## **Language:** Swift (SwiftUI framework)-
+##**Development Environment:** Xcode-
 **Database:** Firebase Firestore- 
 **Authentication:** Firebase Authentication
 ---
