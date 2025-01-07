@@ -30,7 +30,7 @@
  
  1. App Icon Design
 <img width="200" alt="Screenshot 2024-12-31 at 1 20 03ΓÇ»AM" src="https://github.com/user-attachments/assets/94dc27d7-fa89-4598-bff0-6cb7d66320d4" />
-    <img width="1000" alt="Screenshot 2024-12-31 at 1 21 29ΓÇ»AM" src="https://github.com/user-attachments/assets/90419650-03eb-4dd8-b091-95b335890ba5" />
+    <img width="800" alt="Screenshot 2024-12-31 at 1 21 29ΓÇ»AM" src="https://github.com/user-attachments/assets/90419650-03eb-4dd8-b091-95b335890ba5" />
     
  3. Registration Screen (Light and Dark Modes)
 <img width="1359" alt="Screenshot 2024-12-29 at 1 48 57ΓÇ»PM" src="https://github.com/user-attachments/assets/b186e224-6d35-47b1-ab8e-d16e1246a62f" />
